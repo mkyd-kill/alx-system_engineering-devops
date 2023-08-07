@@ -1,0 +1,2 @@
+#!/bin/bash
+tr -d 'Cc' # removing all C and c from user inputs

@@ -1,0 +1,2 @@
+#!/bin/bash
+ls -t | head # sorting the files with time t var and printing the first 10 sorted files

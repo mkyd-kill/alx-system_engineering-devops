@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -empty -printf "%f\n" # finds all empty files and directories and prints them

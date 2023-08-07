@@ -1,0 +1,2 @@
+#!/bin/bash
+tr Ac Ze # replacing Ac letters with Ze

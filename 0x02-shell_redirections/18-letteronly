@@ -1,0 +1,2 @@
+#!/bin/bash
+grep "[[:alpha:]]" /etc/ssh/sshd_config # printing all lines in that file starting with and alphabet
