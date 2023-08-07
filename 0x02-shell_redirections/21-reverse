@@ -1,2 +1,2 @@
 #!/bin/bash
-rev # command used to reverse an input
+read -r s && echo "$s" | rev # command used to reverse an input
