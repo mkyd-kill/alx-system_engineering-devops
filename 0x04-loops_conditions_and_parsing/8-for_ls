@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 # printing file names without the number
-for file_name in *
+for file_name in *;
 do
-	echo "$filename" | cut -d "-" -f2-
+	echo "$filename" | cut -d'-' -f2
 done
